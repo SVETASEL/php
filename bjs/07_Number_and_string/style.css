@@ -7,3 +7,15 @@
     text-align: end;
     font-size: x-large;
 }
+
+.card {
+    background-color: black;
+}
+
+#btn_clr {
+    background-color: crimson;
+}
+
+.btn {
+    background-color: aquamarine;
+}
