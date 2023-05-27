@@ -1,5 +1,5 @@
-let minValue = parseInt(prompt('Минимальное знание числа для игры','0')) || 0;
-let maxValue = parseInt(prompt('Максимальное знание числа для игры','100')) || 100;
+let minValue = parseInt(prompt('Минимальное значение числа для игры','0')) || 0;
+let maxValue = parseInt(prompt('Максимальное значение числа для игры','100')) || 100;
 
 if (isNaN(minValue)) {
     minValue = 0;
